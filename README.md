@@ -11,5 +11,7 @@ Yet another 進捗どうですか
 ## Commands
 
 ```
+hubot 進捗
+hubot shinchoku
 hubot 進捗どうですか
 ```
