@@ -1,5 +1,5 @@
 {
-  "name": "hubot-shinchoku",
+  "name": "hubot-shinchoku-dou",
   "version": "0.0.1",
   "description": "Hubot-scripts returns shinchoku image",
   "main": "index.coffee",
@@ -8,20 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moqada/hubot-shinchoku.git"
+    "url": "https://github.com/toshimaru/hubot-shinchoku-dou.git"
   },
   "keywords": [
     "hubot",
     "hubot-scripts",
     "shinchoku",
+    "shinchoku-dou",
     "image"
   ],
-  "author": "moqada",
+  "author": "toshimaru",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/moqada/hubot-shinchoku/issues"
+    "url": "https://github.com/toshimaru/hubot-shinchoku-dou/issues"
   },
-  "homepage": "https://github.com/moqada/hubot-shinchoku",
+  "homepage": "https://github.com/toshimaru/hubot-shinchoku-dou",
   "dependencies": {
     "cheerio": "^0.17.0",
     "request": "^2.40.0"
