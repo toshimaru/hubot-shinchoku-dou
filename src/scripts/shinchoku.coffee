@@ -6,7 +6,8 @@
 #   進捗 - 進捗画像をランダムに返す
 #
 # Author:
-#   moqada
+#   - moqada (original author)
+#   - toshimaru
 
 request = require 'request'
 cheerio = require 'cheerio'
@@ -14,7 +15,7 @@ cheerio = require 'cheerio'
 url = 'http://shinchokudodesuka.tumblr.com/random'
 
 module.exports = (robot) ->
-  robot.hear /(shinchoku|進捗)/i, (msg) ->
+  robot.respond /進捗どうですか/i, (msg) ->
     request url: url, (err, res, body) ->
       $ = cheerio.load body
       imgUrl = $('#posts > div.photo img').attr 'src'
