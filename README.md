@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/hubot-shinchoku-dou.svg)](http://badge.fury.io/js/hubot-shinchoku-dou)
+
 # hubot-shinchoku-dou
 
 Yet another 進捗どうですか
