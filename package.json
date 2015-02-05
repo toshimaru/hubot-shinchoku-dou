@@ -1,6 +1,6 @@
 {
   "name": "hubot-shinchoku-dou",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hubot-scripts returns shinchoku image",
   "main": "index.coffee",
   "scripts": {

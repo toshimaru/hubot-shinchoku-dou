@@ -16,4 +16,5 @@ Yet another 進捗どうですか
 hubot 進捗
 hubot shinchoku
 hubot 進捗どうですか
+hubot 進捗ダメです
 ```
